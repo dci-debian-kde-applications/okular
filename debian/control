@@ -143,7 +143,7 @@ Description: additional document format support for Okular
 
 Package: okular-mobile
 Architecture: any
-Depends: qml-module-org-kde-kirigami,
+Depends: qml-module-org-kde-kirigami2,
          qml-module-org-kde-kquickcontrolsaddons,
          qml-module-qtgraphicaleffects,
          qml-module-qtquick-controls2,
