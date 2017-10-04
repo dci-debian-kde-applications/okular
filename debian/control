@@ -42,6 +42,7 @@ Build-Depends: cmake (>= 2.8.9~),
                libzip-dev,
                pkg-config,
                pkg-kde-tools,
+               qml-module-org-kde-kirigami2,
                qtbase5-dev,
                qtdeclarative5-dev,
                zlib1g-dev
