@@ -7,6 +7,7 @@ usr/lib/*/qt5/plugins/okular/generators/okularGenerator_fax.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_fb.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_ghostview.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_kimgio.so
+usr/lib/*/qt5/plugins/okular/generators/okularGenerator_md.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_mobi.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_ooo.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_plucker.so
@@ -21,12 +22,14 @@ usr/share/applications/okularApplication_fax.desktop
 usr/share/applications/okularApplication_fb.desktop
 usr/share/applications/okularApplication_ghostview.desktop
 usr/share/applications/okularApplication_kimgio.desktop
+usr/share/applications/okularApplication_md.desktop
 usr/share/applications/okularApplication_mobi.desktop
 usr/share/applications/okularApplication_ooo.desktop
 usr/share/applications/okularApplication_pdf.desktop
 usr/share/applications/okularApplication_plucker.desktop
 usr/share/applications/okularApplication_txt.desktop
 usr/share/applications/okularApplication_xps.desktop
+usr/share/applications/org.kde.mobile.okular_md.desktop
 usr/share/applications/org.kde.okular.desktop
 usr/share/config.kcfg/gssettings.kcfg
 usr/share/config.kcfg/okular.kcfg
@@ -41,6 +44,7 @@ usr/share/kservices5/okularFax.desktop
 usr/share/kservices5/okularFb.desktop
 usr/share/kservices5/okularGhostview.desktop
 usr/share/kservices5/okularKimgio.desktop
+usr/share/kservices5/okularMd.desktop
 usr/share/kservices5/okularMobi.desktop
 usr/share/kservices5/okularOoo.desktop
 usr/share/kservices5/okularPlucker.desktop
