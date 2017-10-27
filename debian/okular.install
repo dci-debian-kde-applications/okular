@@ -29,7 +29,6 @@ usr/share/applications/okularApplication_pdf.desktop
 usr/share/applications/okularApplication_plucker.desktop
 usr/share/applications/okularApplication_txt.desktop
 usr/share/applications/okularApplication_xps.desktop
-usr/share/applications/org.kde.mobile.okular_md.desktop
 usr/share/applications/org.kde.okular.desktop
 usr/share/config.kcfg/gssettings.kcfg
 usr/share/config.kcfg/okular.kcfg
