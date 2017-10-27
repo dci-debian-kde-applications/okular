@@ -75,6 +75,7 @@ usr/share/metainfo/org.kde.okular-dvi.metainfo.xml
 usr/share/metainfo/org.kde.okular-fax.metainfo.xml
 usr/share/metainfo/org.kde.okular-fb.metainfo.xml
 usr/share/metainfo/org.kde.okular-kimgio.metainfo.xml
+usr/share/metainfo/org.kde.okular-md.metainfo.xml
 usr/share/metainfo/org.kde.okular-mobipocket.metainfo.xml
 usr/share/metainfo/org.kde.okular-ooo.metainfo.xml
 usr/share/metainfo/org.kde.okular-plucker.metainfo.xml
