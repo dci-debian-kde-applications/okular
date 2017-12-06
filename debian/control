@@ -56,7 +56,7 @@ Vcs-Git: git://anongit.neon.kde.org/applications/okular
 Vcs-Browser: https://packaging.neon.kde.org/applications/okular.git
 Maintainer: Neon CI <neon@kde.org>
 
-Package: libokular5core7
+Package: libokular5core8
 Section: libs
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
@@ -68,7 +68,7 @@ Description: libraries for the Okular document viewer
 Package: okular
 Section: graphics
 Architecture: any
-Depends: libokular5core7 (= ${binary:Version}),
+Depends: libokular5core8 (= ${binary:Version}),
          qml-module-org-kde-kirigami,
          qml-module-org-kde-kquickcontrolsaddons,
          qml-module-qt-labs-folderlistmodel,
