@@ -68,7 +68,6 @@ Package: okular
 Section: graphics
 Architecture: any
 Depends: libokular5core8 (= ${binary:Version}),
-         qml-module-org-kde-kirigami,
          qml-module-org-kde-kquickcontrolsaddons,
          qml-module-qt-labs-folderlistmodel,
          qml-module-qtgraphicaleffects,
