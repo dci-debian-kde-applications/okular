@@ -7,6 +7,7 @@ usr/lib/*/qt5/plugins/okular/generators/okularGenerator_fax.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_fb.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_ghostview.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_kimgio.so
+usr/lib/*/qt5/plugins/okular/generators/okularGenerator_md.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_mobi.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_ooo.so
 usr/lib/*/qt5/plugins/okular/generators/okularGenerator_plucker.so
@@ -21,6 +22,7 @@ usr/share/applications/okularApplication_fax.desktop
 usr/share/applications/okularApplication_fb.desktop
 usr/share/applications/okularApplication_ghostview.desktop
 usr/share/applications/okularApplication_kimgio.desktop
+usr/share/applications/okularApplication_md.desktop
 usr/share/applications/okularApplication_mobi.desktop
 usr/share/applications/okularApplication_ooo.desktop
 usr/share/applications/okularApplication_pdf.desktop
@@ -41,6 +43,7 @@ usr/share/kservices5/okularFax.desktop
 usr/share/kservices5/okularFb.desktop
 usr/share/kservices5/okularGhostview.desktop
 usr/share/kservices5/okularKimgio.desktop
+usr/share/kservices5/okularMd.desktop
 usr/share/kservices5/okularMobi.desktop
 usr/share/kservices5/okularOoo.desktop
 usr/share/kservices5/okularPlucker.desktop
@@ -59,6 +62,7 @@ usr/share/locale/*/LC_MESSAGES/okular_fax.mo
 usr/share/locale/*/LC_MESSAGES/okular_fictionbook.mo
 usr/share/locale/*/LC_MESSAGES/okular_ghostview.mo
 usr/share/locale/*/LC_MESSAGES/okular_kimgio.mo
+usr/share/locale/*/LC_MESSAGES/okular_markdown.mo
 usr/share/locale/*/LC_MESSAGES/okular_mobi.mo
 usr/share/locale/*/LC_MESSAGES/okular_ooo.mo
 usr/share/locale/*/LC_MESSAGES/okular_plucker.mo
@@ -70,6 +74,7 @@ usr/share/metainfo/org.kde.okular-dvi.metainfo.xml
 usr/share/metainfo/org.kde.okular-fax.metainfo.xml
 usr/share/metainfo/org.kde.okular-fb.metainfo.xml
 usr/share/metainfo/org.kde.okular-kimgio.metainfo.xml
+usr/share/metainfo/org.kde.okular-md.metainfo.xml
 usr/share/metainfo/org.kde.okular-mobipocket.metainfo.xml
 usr/share/metainfo/org.kde.okular-ooo.metainfo.xml
 usr/share/metainfo/org.kde.okular-plucker.metainfo.xml
