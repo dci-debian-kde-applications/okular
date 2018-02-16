@@ -1,6 +1,7 @@
 Source: okular
 Section: kde
 Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>, Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.9~),
                debhelper (>= 9),
